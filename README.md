@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Deepak Kumar Bansal!
 
-<!--
-**deep04102004/deep04102004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year B.Tech (IT) student at **Chandigarh Group of Colleges, Landran**. I'm a passionate full-stack developer and a DSA enthusiast who enjoys building dynamic web applications and solving real-world problems through code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Final-year IT student at CGC Landran
+- 🌱 Currently learning:
+  - Full-stack Web Development (MERN)
+  - Data Structures & Algorithms in C++
+- 💻 Working on personal and academic projects
+- 🪟 Using Windows as my development environment
+- 🔍 Exploring both frontend and backend technologies
+
+---
+
+## 🛠️ Tech Stack
+
+```text
+Languages:     C++ | JavaScript | HTML | CSS
+Frameworks:    React.js | Node.js | Express.js
+Databases:     MongoDB
+Tools:         Git | VS Code | Windows | Postman | GitHub
