@@ -24,7 +24,5 @@ Frameworks:    React.js | Node.js | Express.js
 Databases:     MongoDB
 Tools:         Git | VS Code | Windows | Postman | GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deep04102004&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deep04102004&layout=compact&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deep04102004)](https://github.com/deep04102004/github-readme-stats)
 
