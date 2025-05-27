@@ -23,8 +23,8 @@ Languages:     C++ | JavaScript | HTML | CSS
 Frameworks:    React.js | Node.js | Express.js
 Databases:     MongoDB
 Tools:         Git | VS Code | Windows | Postman | GitHub
-## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deep04102004&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deep04102004&layout=compact&theme=tokyonight)
+
