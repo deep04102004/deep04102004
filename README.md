@@ -23,9 +23,9 @@ Databases:     MongoDB
 
 Tools:         Git | VS Code | Windows | Postman | GitHub
 
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deep04102004&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deep04102004&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=3600)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep04102004&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep04102004&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&cache_seconds=3600)
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepak-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/deepak-kumar-bansal-01b505286)
