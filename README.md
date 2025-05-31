@@ -15,13 +15,13 @@ I'm a final-year B.Tech (IT) student at **Chandigarh Group of Colleges, Landran*
 - 🔍 Exploring both frontend and backend technologies
 
 ## 🛠️ Tech Stack
-Languages:     C++ | JavaScript | HTML | CSS
+**Languages**:    C++ | JavaScript | HTML | CSS
 
-Frameworks:    React.js | Node.js | Express.js
+**Frameworks**:    React.js | Node.js | Express.js
 
-Databases:     MongoDB
+**Databases**:     MongoDB
 
-Tools:         Git | VS Code | Windows | Postman | GitHub
+**Tools**:         Git | VS Code | Windows | Postman | GitHub
 
 ![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deep04102004&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800)
 
