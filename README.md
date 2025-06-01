@@ -19,7 +19,7 @@ I'm a final-year B.Tech (IT) student at **Chandigarh Group of Colleges, Landran*
 
 **Frameworks**:    React.js | Node.js | Express.js
 
-**Databases**:     MongoDB
+**Databases**:     MongoDB|MySQL
 
 **Tools**:         Git | VS Code | Windows | Postman | GitHub
 
