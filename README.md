@@ -1,4 +1,10 @@
-# 👋 Hi, I'm Deepak Kumar Bansal!
+<h3 >
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />
+    Hi, I'm Deepak Kumar Bansal!
+</h3>
 
 I'm a final-year B.Tech (IT) student at **Chandigarh Group of Colleges, Landran**. I'm a passionate full-stack developer and a DSA enthusiast who enjoys building dynamic web applications and solving real-world problems through code.
 
