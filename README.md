@@ -21,6 +21,7 @@ I'm a final-year B.Tech (IT) student at **Chandigarh Group of Colleges, Landran*
 - 🔍 Exploring both frontend and backend technologies
 
 ## 🛠️ Tech Stack
+<img src="cpp.svg" alt="cpp Icon"  height="48"> <img src="html.svg" alt="html Icon"  height="48"> <img src="css.svg" alt="css Icon"  height="48"> <img src="javascript.svg" alt="js Icon"  height="48"> <img src="react.svg" alt="react Icon"  height="48"> <img src="expressjs-wordmark.svg" alt="express Icon"  height="48"> <img src="nodejs-horizontal.svg" alt="nodejs Icon"  height="48"> <img src="tailwindcss.svg" alt="tailwind Icon"  height="48"> <img src="mongodb2-horizontal.svg" alt="mongodb Icon"  height="48"> <img src="mysql.svg" alt="mysql Icon"  height="48"> <img src="github.svg" alt="github Icon"  height="48"> <img src="vscode.svg" alt="vs code Icon"  height="48">
 **Languages**:    C++ | JavaScript | HTML | CSS
 
 **Frameworks**:    React.js | Node.js | Express.js
