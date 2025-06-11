@@ -31,5 +31,7 @@ I'm a final-year B.Tech (IT) student at **Chandigarh Group of Colleges, Landran*
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deepak-kumar-bansal-01b505286)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dkb6865@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/deep0410/)
+
 
 
