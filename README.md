@@ -29,6 +29,7 @@ I'm a final-year B.Tech (IT) student at **Chandigarh Group of Colleges, Landran*
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep04102004&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&cache_seconds=1800)
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepak-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/deepak-kumar-bansal-01b505286)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deepak-kumar-bansal-01b505286)
+
 [![Email](https://img.shields.io/badge/Email-dkb6865@gmail.com-D14836?logo=gmail&style=for-the-badge)](mailto:dkb6865@gmail.com)
 
