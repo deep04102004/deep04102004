@@ -21,7 +21,9 @@ I'm a final-year B.Tech (IT) student at **Chandigarh Group of Colleges, Landran*
 - 🔍 Exploring both frontend and backend technologies
 
 ## 🛠️ Tech Stack
-<img src="logo/cpp.svg" alt="cpp Icon"  height="48"> <img src="logo/html.svg" alt="html Icon"  height="48"> <img src="logo/css.svg" alt="css Icon"  height="48"> <img src="logo/javascript.svg" alt="js Icon"  height="48"> <img src="logo/react.svg" alt="react Icon"  height="48"> <img src="logo/expressjs-wordmark.svg" alt="express Icon"  height="48"> <img src="logo/nodejs-horizontal.svg" alt="nodejs Icon"  height="48"> <img src="logo/tailwindcss.svg" alt="tailwind Icon"  height="48"> <img src="logo/mongodb2-horizontal.svg" alt="mongodb Icon"  height="48"> <img src="logo/mysql.svg" alt="mysql Icon"  height="48"> <img src="logo/github.svg" alt="github Icon"  height="48"> <img src="logo/vscode.svg" alt="vs code Icon"  height="48"> <img src="logo/git.svg" alt="git Icon"  height="48">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,express,nodejs,tailwind,mongodb,mysql,git,github,vscode,windows" />
+</p>
 
 ## 📈 Stats
 ![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deep04102004&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800)
